@@ -1,0 +1,16 @@
+.col-xs-3
+{
+   background-color: #f1f1f1; 
+}
+
+.col-xs-6
+{
+   background-color: #f8f8f8; 
+}
+
+.col-xs-12
+{
+   background-color: #d3d3d3; 
+   text-align: center;
+   color: #f1f1f1;
+}
